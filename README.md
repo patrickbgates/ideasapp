@@ -8,4 +8,4 @@ $ npm install
 $ npm run dev
 ```
 
-Note: You must replace the `connectionString` in `config.js` with the connection string for your MongoDb instance.
+Note: You must replace `connectionString` in `config.js` with the connection string for your MongoDb instance.
